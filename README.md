@@ -1,0 +1,1 @@
+## Exercício sobre Recarga Teleónica

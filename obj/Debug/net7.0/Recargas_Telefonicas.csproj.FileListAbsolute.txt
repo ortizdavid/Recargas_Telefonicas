@@ -1,0 +1,15 @@
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\bin\Debug\net7.0\Recargas_Telefonicas.exe
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\bin\Debug\net7.0\Recargas_Telefonicas.deps.json
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\bin\Debug\net7.0\Recargas_Telefonicas.runtimeconfig.json
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\bin\Debug\net7.0\Recargas_Telefonicas.dll
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\bin\Debug\net7.0\Recargas_Telefonicas.pdb
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\Recargas_Telefonicas.csproj.AssemblyReference.cache
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\Recargas_Telefonicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\Recargas_Telefonicas.AssemblyInfoInputs.cache
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\Recargas_Telefonicas.AssemblyInfo.cs
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\Recargas_Telefonicas.csproj.CoreCompileInputs.cache
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\Recargas_Telefonicas.dll
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\refint\Recargas_Telefonicas.dll
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\Recargas_Telefonicas.pdb
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\Recargas_Telefonicas.genruntimeconfig.cache
+C:\Users\Ortiz\source\repos\Recargas_Telefonicas\obj\Debug\net7.0\ref\Recargas_Telefonicas.dll
